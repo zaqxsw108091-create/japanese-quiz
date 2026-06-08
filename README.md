@@ -51,9 +51,9 @@ Choose your difficulty on launch:
 
 | Level | Description | Word count (current) |
 |---|---|---|
-| N5 | Beginner — everyday nouns, basic verbs, food, nature | ~90 words |
-| N4 | Elementary — transport, places, household, hobbies | ~100 words |
-| N3 | Intermediate — economy, society, business, tech | ~120 words |
+| N5 | Beginner — everyday nouns, basic verbs, food, nature | 75 words |
+| N4 | Elementary — transport, places, household, hobbies | 94 words |
+| N3 | Intermediate — economy, society, business, tech | 142 words |
 
 ### Shuffled Questions
 Every session draws from the full word pool for your level and presents them in random order. Same words, different experience each time.
