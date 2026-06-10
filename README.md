@@ -27,7 +27,7 @@ Learning Japanese vocabulary without a drill tool means either buying an app or 
 
 ```bash
 # Clone
-git clone https://github.com/zaqxsw108091/japanese-quiz.git
+git clone https://github.com/zaqxsw108091-create/japanese-quiz.git
 cd japanese-quiz
 
 # Run
