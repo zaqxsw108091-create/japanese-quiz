@@ -1,5 +1,7 @@
 # Japanese Vocabulary Quiz
 
+**한국어:** [README.ko.md](README.ko.md)
+
 A terminal-based Japanese vocabulary quiz for Korean speakers, organized by JLPT proficiency levels. Built entirely with Python's standard library — no pip, no dependencies, no setup.
 
 ---
