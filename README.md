@@ -52,7 +52,7 @@ Choose your difficulty on launch:
 | Level | Description | Word count (current) |
 |---|---|---|
 | N5 | Beginner — everyday nouns, basic verbs, food, nature | 75 words |
-| N4 | Elementary — transport, places, household, hobbies | 94 words |
+| N4 | Elementary — transport, places, household, hobbies | 92 words |
 | N3 | Intermediate — economy, society, business, tech | 142 words |
 
 ### Shuffled Questions
@@ -68,6 +68,8 @@ After the main round, any word you answered incorrectly is collected and immedia
 
 ### Score Persistence
 Results are appended to `scores.txt` with a timestamp, level, and score fraction. The file grows over time, letting you track improvement manually.
+
+> **Note:** the wrong-word re-quiz round is saved as its own line too, and its score is out of the number of wrong words (e.g. `점수: 2/5`), not out of the full word list.
 
 ```
 2026-06-05 16:16 | 레벨: N5 | 점수: 5/5
